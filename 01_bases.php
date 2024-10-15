@@ -19,6 +19,7 @@
         <a href="03_constantes.php">03.Les constantes</a>
         <a href="04_arithmetiques.php">04.Arithméthiques</a>
         <a href="05_conditions.php">05.Conditions</a>
+        <a href="06_tableaux.php">06.Tableaux</a>
     </div>
 
     <?php

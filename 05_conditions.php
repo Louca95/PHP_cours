@@ -20,6 +20,7 @@
         <a href="03_constantes.php">03.Les constantes</a>
         <a href="04_arithmetiques.php">04.Arithméthiques</a>
         <a href="05_conditions.php">05.Conditions</a>
+        <a href="06_tableaux.php">06.Tableaux</a>
     </div>
 
     <?php 
@@ -97,6 +98,22 @@
 
     // PS: ces méthodes sont utiles lorque l'on veut récupérer des informations sur un formulaire par exemple et 
     // qu'on veut alerter l'utilisateur sur les champs à remplir !
+
+    $color = "jaune";
+
+    switch($color) {
+        case "rouge":
+            echo "<p>C'est ma couleur préférée</p>";
+            break;
+        case "Rouge":
+            echo "<p>Je pense que j'aime aussi</p>";
+            break;
+        case "bleu":
+            echo "<p>Comme le ciel</p>";
+            break;
+        default: 
+            echo "Aucune des couleurs n'a été choisie";
+    }
     ?>
 </body>
 </html>
