@@ -21,6 +21,7 @@
         <a href="04_arithmetiques.php">04.Arithmétiques</a>
         <a href="05_conditions.php">05.Conditions</a>
         <a href="06_tableaux.php">06.Tableaux</a>
+        <a href="07_boucles_tableau.php">07.Boucles</a>
     </div>
 
     <?php
