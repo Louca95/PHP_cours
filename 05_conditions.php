@@ -22,6 +22,9 @@
         <a href="05_conditions.php">05.Conditions</a>
         <a href="06_tableaux.php">06.Tableaux</a>
         <a href="07_boucles_tableau.php">07.Boucles</a>
+        <a href="08_dates.php">08.Dates</a>
+        <a href="09_fonctions.php">09.Fonctions</a>
+        <a href="10_inclusion.php">10.Inclusion</a>
     </div>
 
     <?php 
